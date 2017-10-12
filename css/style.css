@@ -5,3 +5,45 @@
 .titre{
 	margin-bottom:10px;
 }
+.descritpioncarte {
+	font-size: 0.8em;
+	color: #DDDDDD;
+}
+
+.titrecart {
+	font-size: 1.5em;
+	font: bold;
+	color:#4A4A4A;
+}
+
+.prixcarte {
+	color:#C1C1C1;
+}
+.starsAurel {
+	color:#00858B;
+}
+.nombre {
+	color:#4A4A4A;
+}
+.titreLogement {
+	font-size:4em;
+	font-family: 'Circular',sans-serif;
+	color:#484848;
+	font-weight:bolder; 
+	margin-bottom:-10%; 
+}
+.Plusfleche {
+	font-size:1.5em;
+	font-family: 'Circular',sans-serif;
+	color:#484848;
+	margin-top:80%;
+	margin-bottom:-10%;  
+}
+
+.responsive-img.arrowimg {
+	opacity: 0.5;
+	height: 30px;
+	max-width: auto;
+	margin-top: 12em;
+	margin-left: -0.7em;
+}
