@@ -32,7 +32,7 @@
 	color:#484848;
 	font-weight:bolder;
 	margin-bottom:-10%;
-=======
+
 
 }
 .Plusfleche {
@@ -42,8 +42,14 @@
 	margin-top:80%;
 	margin-bottom:-10%;
 }
-=======
 
+.flecheAurel{
+	opacity: 0.5;
+	height: 1em;
+	max-width: auto;
+	margin-top: 12em;
+	margin-left: -0.7em;
+}
 
 
 /*CSS DE JULIE*/
