@@ -5,7 +5,7 @@
 .titre{
 	margin-bottom:10px;
 }
-<<<<<<< Updated upstream
+
 .descritpioncarte {
 	font-size: 0.8em;
 	color: #DDDDDD;
@@ -30,23 +30,29 @@
 	font-size:4em;
 	font-family: 'Circular',sans-serif;
 	color:#484848;
-	font-weight:bolder; 
-	margin-bottom:-10%; 
+	font-weight:bolder;
+	margin-bottom:-10%;
+=======
+
 }
 .Plusfleche {
 	font-size:1.5em;
 	font-family: 'Circular',sans-serif;
 	color:#484848;
 	margin-top:80%;
-	margin-bottom:-10%; 
-} 
+	margin-bottom:-10%;
+}
+=======
+
 
 
 /*CSS DE JULIE*/
 .experiencetitle {
 	font-family: 'Circular', sans-serif;
 	font-size: 2.5em;
-	color: #484848; 
+	color: #484848;
+=======
+
 	font-weight: bolder;
 	margin-bottom: -10%;
 }
@@ -59,7 +65,10 @@
 	margin-bottom: -10%;
 }
 
-.responsive-img.experienceimg 
+
+.responsive-img.experienceimg
+=======
+
 
 
 .responsive-img.arrowimg {
@@ -88,3 +97,102 @@
 
 /*FIN DU CSS DE JULIE*/
 
+
+=======
+/* Amine CSS */
+html {
+  margin-top: -6px;
+  margin-left: 2px;
+}
+
+body {
+  margin: 0px;
+}
+
+.sectionheader0 {
+ margin: 20px;
+}
+
+.headerbutton {
+ background: transparent;
+ border: none;
+ color: inherit;
+ display: inline-block;
+ margin-top: 12px;
+ margin-left: 18px;
+ float : right;
+ cursor: pointer;
+ color: #484848;
+ font-size: 13px;
+ font-family: Circular,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+ font-weight: 500;
+ letter-spacing: 0px;
+ line-height: 16px;
+}
+
+.headerbutton:hover {
+ border: 2px solid #484848;
+ border-left: transparent;
+ border-right: transparent;
+ border-top: transparent;
+ padding-bottom: 6px;
+}
+
+.sectionheader1 {
+ margin-top: 70px;
+ margin-left: 114px;
+}
+
+.sectionheader1 > h1 {
+ color: #FF5862;
+ font-size: 44px;
+ font-weight: 700;
+ font-family: Circular,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+ letter-spacing: -.4px;
+}
+
+.undertitletext {
+ color: #484848;
+ margin-top: -30px;
+ font-size: 40px;
+ font-weight: 400;
+ font-family: Circular,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+ letter-spacing: 0px;
+}
+
+.sectionheader2 {
+ margin: 70px 114px 70px 114px;
+}
+
+.rbutton {
+ font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+ font-size: 19px;
+ line-height: 15px;
+ padding-top: 0px;
+ padding-bottom: 0px;
+ color: #ffffff;
+ padding-right: 18px;
+ padding-left: 18px;
+ border-radius: 4px;
+ border: 0px;
+ background: #FF5A5F;
+ margin: 12px;
+ height: 48px;
+ text-align: center;
+ display: inline-block;
+ white-space: nowrap;
+}
+
+fieldset {
+ border: 1px solid #484848;
+ border-radius: 6px;
+ text-align: left;
+ margin: 0 2px;
+ padding: 0.35em 0.625em 0.75em;
+}
+
+th {
+ font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+ color: #484848;
+}
+/*End Amine CSS*/
